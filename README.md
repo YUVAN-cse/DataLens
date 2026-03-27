@@ -2,7 +2,6 @@
 
 A production-ready full-stack application that transforms any CSV file into a rich, interactive analytics dashboard.
 
-
 ## ✨ Features
 
 - **Drag-and-drop CSV upload** with validation (type + 50MB size limit)
