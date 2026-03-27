@@ -1,0 +1,65 @@
+# ------------------------
+# Python / Backend
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+env/
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pkl
+*.db
+
+# pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ------------------------
+# Node / Frontend
+# ------------------------
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ------------------------
+# Docker
+# ------------------------
+docker-compose.override.yml
+*.dockerfile
+*.env
+*.pid
+*.sock
+
+# ------------------------
+# OS
+# ------------------------
+.DS_Store
+Thumbs.db
+*.bak
+
+# ------------------------
+# Misc / Generated
+# ------------------------
+uploads/
+*.csv
+*.zip
+*.tar.gz
