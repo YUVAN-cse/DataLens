@@ -2,7 +2,6 @@
 
 A production-ready full-stack application that transforms any CSV file into a rich, interactive analytics dashboard.
 
-![DataLens Dashboard](https://via.placeholder.com/1200x600/0c1117/14b88f?text=DataLens+Dashboard)
 
 ## ✨ Features
 
